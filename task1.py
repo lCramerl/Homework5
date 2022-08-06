@@ -15,8 +15,8 @@ def read_file(addres):
     f.close
     return data
 
-mnogochlen1 = read_file('/Users/Admin/Desktop/Homework5/task2.1.txt')
-mnogochlen2 = read_file('/Users/Admin/Desktop/Homework5/task2.2.txt')
+mnogochlen1 = read_file('/Users/Admin/Desktop/Homework5/task1.1.txt')
+mnogochlen2 = read_file('/Users/Admin/Desktop/Homework5/task1.2.txt')
 print(mnogochlen1)
 print(mnogochlen2)
 
